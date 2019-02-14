@@ -3,3 +3,40 @@ body {
   height: 100%;
   margin: 0;
 }
+header>h1{
+  text-align: center;
+}
+.nav{
+ margin: 0 auto;
+ text-align: center;
+}
+nav>a{
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: mistyrose;
+}
+.image{
+  align-content: center;
+  align-self: center;
+  align-items: center;
+  padding-left: 180px;
+  padding-bottom: 10px;
+}
+#caption{
+  font-size: 16px;
+   text-align: center;
+}
+#featured-property>p{
+  width: 800px;
+  text-align: center;
+  padding-left: 300px;
+}
+#details{
+  display: block;
+}
+#details>div{
+  float: left;
+  background-color: mistyrose;
+  text-align: center;
+  width: 25%;
+}
